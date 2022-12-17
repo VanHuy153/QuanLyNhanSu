@@ -1,0 +1,3 @@
+MMT;Mạng máy tính;CNTT
+NNA;Ngôn ngữ Anh;NN
+NNH;Ngôn ngữ Hàn;NN

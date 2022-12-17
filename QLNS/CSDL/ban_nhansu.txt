@@ -1,0 +1,5 @@
+NS05;MMT;Trưởng phòng
+NS01;NNA;Trưởng phòng
+NS02;NNA;Trưởng ban
+NS03;NNA;Phó phòng
+NS05;NNH;Trưởng ban

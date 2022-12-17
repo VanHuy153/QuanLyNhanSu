@@ -1,0 +1,5 @@
+NS01;Hoàng Hữu Kim;13/01/2001;true;Nghệ An;1234555;09999;Kinh;Chưa có;Giảng Viên;Tiến Sỹ;CNTT;true;01/02/2021;01/02/2030
+NS02;Hoàng Trọng Nghĩa;13/01/2001;true;Nghệ An;1234555;09999;Kinh;Chưa có;Giảng Viên;Tiến Sỹ;CNTT;true;01/02/2021;01/02/2030
+NS03;Trần Hà Bắc;13/01/2001;true;Nghệ An;1234555;09999;Kinh;Chưa có;Giảng Viên;Tiến Sỹ;CNTT;true;01/02/2021;01/02/2030
+NS04;Trần Hữu Vinh;13/01/2001;true;Nghệ An;1234555;09999;Kinh;Chưa có;Giảng Viên;Tiến Sỹ;CNTT;true;01/02/2021;01/02/2030
+NS05;Nguyễn Văn Huy;13/01/2001;true;Nghệ An;1234555;09999;Kinh;Chưa có;Giảng Viên;Tiến Sỹ;CNTT;true;01/02/2021;01/02/2030
